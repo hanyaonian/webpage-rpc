@@ -1,0 +1,25 @@
+{
+  "name": "cross-page-rpc",
+  "version": "0.0.1",
+  "description": "Rpc-like page communicator",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [
+    "webpage-rpc",
+    "iframe-rpc"
+  ],
+  "author": "Michaelhyn",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/eslint-parser": "^7.19.1",
+    "@rollup/plugin-typescript": "^11.0.0",
+    "@types/node": "^18.11.18",
+    "eslint": "^8.32.0",
+    "eslint-config-alloy": "^4.9.0",
+    "eventemitter3": "^5.0.0",
+    "vite": "^4.0.4"
+  }
+}
